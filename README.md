@@ -1,4 +1,18 @@
-Available Scripts
+# Explanation
+
+A Todo App is a productivity tool designed to help users organize tasks, manage priorities, and stay on track with daily goals. It allows users to create, edit, complete, and delete tasks. In short, a todo app helps turn scattered responsibilities into a clear, actionable plan—improving focus, time management, and overall productivity.
+   
+## Installation
+ 1) Clone the repository:
+    git clone "link"
+ 2) Go into the project folder:
+    cd "file_name"
+ 3) Install dependencies:
+    npm install
+ 4) Start development server:
+    npm run dev
+
+## Available Scripts
 
 In the project directory, you can run:
 
